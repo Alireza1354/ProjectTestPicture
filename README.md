@@ -1,2 +1,0 @@
-# ProjectTestPicture
-For Test Project
